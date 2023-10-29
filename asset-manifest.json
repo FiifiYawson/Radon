@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Radon/static/css/main.47087ec7.css",
-    "main.js": "/Radon/static/js/main.612275b3.js",
+    "main.js": "/Radon/static/js/main.baa0372e.js",
     "static/js/787.d3e88dbd.chunk.js": "/Radon/static/js/787.d3e88dbd.chunk.js",
     "static/media/bottom_img.png": "/Radon/static/media/bottom_img.e3c1a6dd3840ef8634c2.png",
     "static/media/front-view-smiley-students-posing-together 1.png": "/Radon/static/media/front-view-smiley-students-posing-together 1.5bbfdf422498a0c2d586.png",
@@ -24,11 +24,11 @@
     "index.html": "/Radon/index.html",
     "static/media/facebook.svg": "/Radon/static/media/facebook.544e803a6075ddea33e61e13d6685a33.svg",
     "main.47087ec7.css.map": "/Radon/static/css/main.47087ec7.css.map",
-    "main.612275b3.js.map": "/Radon/static/js/main.612275b3.js.map",
+    "main.baa0372e.js.map": "/Radon/static/js/main.baa0372e.js.map",
     "787.d3e88dbd.chunk.js.map": "/Radon/static/js/787.d3e88dbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47087ec7.css",
-    "static/js/main.612275b3.js"
+    "static/js/main.baa0372e.js"
   ]
 }
