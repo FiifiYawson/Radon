@@ -1,0 +1,20 @@
+{
+  "short_name": "Radon",
+  "name": "Radon Ghana",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "100x76",
+      "type": "image/svg"
+    },
+    {
+      "src": "logo512.svg",
+      "type": "image/svg",
+      "sizes": "100x76"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
